@@ -5,10 +5,15 @@ In this study, we introduce a predictor, ResCNNT-fold, for protein fold recognit
 
 ## Requirements
 pip install numpy 
+
 pip install pandas 
+
 pip install sklearn 
+
 pip install pytorch 
+
 pip install h5py 
+
 pip install matplotlib 
 
 ## Usage
